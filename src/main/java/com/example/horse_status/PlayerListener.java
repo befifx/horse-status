@@ -1,4 +1,4 @@
-package com.example.eventhandling;
+package com.example.horse_status;
 
 import org.bukkit.Material;
 import org.bukkit.attribute.Attribute;

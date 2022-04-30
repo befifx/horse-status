@@ -1,4 +1,4 @@
-main: com.example.eventhandling.Main
-name: event-handling
+main: com.example.horse_status.Main
+name: horse-status
 version: 0.1
 api-version: 1.18

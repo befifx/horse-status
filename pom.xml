@@ -4,8 +4,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example.eventhandling</groupId>
-  <artifactId>event-handling</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>horse-status</artifactId>
+  <version>1.0</version>
 
   <packaging>jar</packaging>
   <properties>
